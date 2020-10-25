@@ -2,7 +2,8 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+(Hey there, check my profile! ) [Lichess.org/@/LittleJennyWren] 'uh'
+
 
 ---
 
